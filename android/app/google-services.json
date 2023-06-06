@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "222889111252",
+    "project_id": "app-day-assign",
+    "storage_bucket": "app-day-assign.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:222889111252:android:2740395f734a2a2ebbd541",
+        "android_client_info": {
+          "package_name": "com.appdayproject.app_day_project"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "222889111252-01sl1r2aj5pdipvca53ii475k43kbf1p.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDnbnh3L-r_5A-agR0vs-HtdSiCvaQuUNc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "222889111252-01sl1r2aj5pdipvca53ii475k43kbf1p.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
